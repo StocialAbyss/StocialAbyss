@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Daryl Lai 👋
+# Hi, I'm Daryl 👋
 
 **Applied Computing (FinTech) undergraduate · Singapore Institute of Technology**
 
